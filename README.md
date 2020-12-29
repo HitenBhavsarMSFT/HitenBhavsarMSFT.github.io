@@ -14,7 +14,7 @@ Content
 - Product Information: find out the product information from the services desk, run corresponding troubleshooter .
     <details><summary>How to run query store.</summary>
 
-  - SQL DB: ASC -> Tools -> SQL Troubleshooter
+  - Query Store. 
     ![QDS](./QueryStore.png)
 
     </details>
