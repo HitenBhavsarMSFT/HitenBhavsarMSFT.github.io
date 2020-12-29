@@ -15,6 +15,6 @@ Content
     <details><summary>How to run query store.</summary>
 
   - SQL DB: ASC -> Tools -> SQL Troubleshooter
-    ![QDS](/QueryStore.png)
+    ![QDS](./QueryStore.png)
 
     </details>
