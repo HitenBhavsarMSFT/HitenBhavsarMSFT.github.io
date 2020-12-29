@@ -15,6 +15,6 @@ Content
     <details><summary>How to run query store.</summary>
 
   - SQL DB: ASC -> Tools -> SQL Troubleshooter
-    ![SQL Troubleshooter >> Azure SQL DB](/blob/quertstore.png)
+    ![QDS](/quertstore.png)
 
     </details>
